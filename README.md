@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hey dear! I'm Emma aka gogrene. 👋 
 
-<!--
-**emmaudeji/emmaudeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="img/gogreneGithubBanner.jpg" alt="gogrene_banner">
 
-Here are some ideas to get you started:
+### I am a Frontend Developer and Ui/Ux designer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Software Engineering at [alx/Holberton School](https://www.alxafrica.com/software-engineering-2022). 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: 
+    - Complete my alx certification course.
+    - Perfect my Web stacks skills.
+    - Master MERN.
+- ⚡ Fun fact: I love to draw, and read books
+- 😻 I am working on my first web app.
+
+### Connect with me:
+
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/emmanueludeji#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/emmanueludeji#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/emmanueludejir#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/emmanueludeji#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/printolab_emma_udeji#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/printolab_emma_udeji#gh-dark-mode-only)
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<br />
+<!--### 📺 Latest YouTube Videos 
+### 📕 Latest Blog Posts -->
+<!--END_SECTION:activity-->
+
+<summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="emmaudeji's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emmaudeji&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
