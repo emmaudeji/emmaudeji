@@ -5,7 +5,7 @@
 ### I am a Frontend Developer and Ui/Ux designer.
 
 - 🌱 I’m currently learning Software Engineering at [alx/Holberton School](https://www.alxafrica.com/software-engineering-2022). 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Web Devops
 - 🥅 2022 Goals: 
     - Complete my alx certification course.
     - Perfect my Web stacks skills.
