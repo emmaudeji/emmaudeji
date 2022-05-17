@@ -1,4 +1,4 @@
-# Hey dear! I'm Emma aka gogrene. 👋 
+### Hi dear! I'm Emma. You can call me gogrene. 👋 
 
 <img src="img/gogreneGithubBanner.jpg" alt="gogrene_banner">
 
