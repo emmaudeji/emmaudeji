@@ -10,7 +10,7 @@
     - Complete my alx certification course.
     - Perfect my Web stacks skills.
     - Master MERN.
-- ⚡ Fun fact: I love to draw, and read books
+- ⚡ Fun fact: I love graphics design, I am good with creating engaging Ui designs, and love to learn new things. 
 - 😻 I am working on my first web app.
 
 ### Connect with me:
