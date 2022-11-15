@@ -1,8 +1,8 @@
 ### Hi dear! I am a Software Engineer with 7 years of experience in UI designs. I completed the 1-year Software Engineering Programme at ALX, while completing a rigorous, fast-paced, full-stack curriculum founded on project-based, peer learning.  I leveraged experience in UI designs to build engaging user experience for ReactJs applications running on Python servers.👋 
 
-<img src="img/gogreneGithubBanner.jpg" alt="gogrene_banner">
 
-### I have great skills in React framework and Python for the Backend.
+
+### I have great skills in React framework.
 - 🌱 I am a product of [alx/Holberton School](https://www.alxafrica.com/software-engineering-2022) and I code everyday. 🤣
 - 👯 I’m looking to collaborate in Web developement projects.
 - 🤣 My most recent stack is React and Python.
