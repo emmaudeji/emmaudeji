@@ -1,6 +1,6 @@
 ### Hi dear! I am a Software Engineer with 7 years of experience in UI designs. I completed the 1-year Software Engineering Programme at ALX, while completing a rigorous, fast-paced, full-stack curriculum founded on project-based, peer learning.  I leveraged experience in UI designs to build engaging user experience for ReactJs applications running on Python servers.👋 
 
-![banner_emma_udeji](https://user-images.githubusercontent.com/88405403/201909616-5dec27d1-18e5-4878-bb35-0e72bb42e3a0.jpg)
+![banner_emma_udeji](https://user-images.githubusercontent.com/88405403/201910073-b8e1b18e-b2cc-4f09-b2a3-566df95a0b8a.jpg)
 
 ### I have great skills in React framework.
 - 🌱 I am a product of [alx/Holberton School](https://www.alxafrica.com/software-engineering-2022) and I code everyday. 🤣
