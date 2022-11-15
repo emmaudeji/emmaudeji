@@ -1,4 +1,4 @@
-### Hi dear! I'm Emma. You can call me gogrene. 👋 
+### Hi dear! I am a Software Engineer with 7 years of experience in UI designs. I completed the 1-year Software Engineering Programme at ALX, while completing a rigorous, fast-paced, full-stack curriculum founded on project-based, peer learning.  I leveraged experience in UI designs to build engaging user experience for ReactJs applications running on Python servers.👋 
 
 <img src="img/gogreneGithubBanner.jpg" alt="gogrene_banner">
 
