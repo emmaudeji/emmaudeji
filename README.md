@@ -1,18 +1,17 @@
-### Hi dear! I am a Software Engineer with 7 years of experience in UI designs. I completed the 1-year Software Engineering Programme at ALX, while completing a rigorous, fast-paced, full-stack curriculum founded on project-based, peer learning.  I leveraged experience in UI designs to build engaging user experience for ReactJs applications running on Python servers.👋 
+### Hi dear! I am a Software Engineer with 7 years of experience in UI design. I completed the 1-year Software Engineering Programme at ALX, while completing a rigorous, fast-paced, full-stack curriculum founded on project-based, peer learning.  I leverage my UI Design skills to easily build optimized and SEO friendly web applications with NextJs and run on any cloud service provider including AWS.👋 
 
 ![banner_emma_udeji](https://user-images.githubusercontent.com/88405403/201910073-b8e1b18e-b2cc-4f09-b2a3-566df95a0b8a.jpg)
 
 ### I have great skills in React framework.
 - 🌱 I am a product of [alx/Holberton School](https://www.alxafrica.com/software-engineering-2022) and I code everyday. 🤣
 - 👯 I’m looking to collaborate in Web developement projects.
-- 🤣 My most recent stack is React and Python.
+- 🤣 My most recent stack is React/NextJs, NodeJs and Python.
 - 🤣 I leverage on my experience in Ui designs to create engaging Frontend interface. 
-- 🥅 2022 Goals: 
-    - Perfect my Full stack Web Development skills.
-    - Master MERN stack.
-    - Build 10 real world Web Development projects.
-    - Become better in Data Structures and Agorithms in Python.
-- ⚡ Fun fact: I love graphics design, I am good with creating engaging Ui designs, and love to learn new things. 
+- 🥅 2023 Goals: 
+    - Continue mastery of MERN stack.
+    - Get AWS Cloud Computing Certification.
+    - Build 20 real world Web Development projects.
+    - Become better in Data Structures and Agorithms with Python.
 
 ### Connect with me:
 
